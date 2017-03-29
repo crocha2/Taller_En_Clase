@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">XYZ</string>
+    <string name="producto">PRODUCTO</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="material">Material</string>
+    <string name="dije">Dije</string>
+    <string name="tipo">Tipo</string>
+    <string name="moneda">Moneda</string>
+    <string name="pesos">Pesos</string>
+    <string name="dolares">Dolares</string>
+    <string name="costo">Costo</string>
+    <string name="limpiar">Limpiar</string>
+</resources>
