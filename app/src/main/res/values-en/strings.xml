@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">XYZ</string>
+    <string name="ancla">Anchor</string>
+    <string name="cantidad">Quantity</string>
+    <string name="costo">Cost</string>
+    <string name="cuerda">Rope</string>
+    <string name="cuero">Leather</string>
+    <string name="dije">Trinket</string>
+    <string name="dolares">Dollars</string>
+    <string name="error_1">Type the amount</string>
+    <string name="limpiar">Clear</string>
+    <string name="martillo">Hammer</string>
+    <string name="material">Material</string>
+    <string name="moneda">Coin</string>
+    <string name="niquel">Nickel</string>
+    <string name="oro">Gold</string>
+    <string name="oro_rosado">Pnk Gold</string>
+    <string name="pesos">Pesos</string>
+    <string name="plata">Plate</string>
+    <string name="producto">Product</string>
+    <string name="tipo">Type</string>
+</resources>
